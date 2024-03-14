@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Instagram Downloader</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+
+<!--  HOME  -->
+    <string name="label_input">Input URL here: </string>
+<!--  HISTORY  -->
+</resources>
